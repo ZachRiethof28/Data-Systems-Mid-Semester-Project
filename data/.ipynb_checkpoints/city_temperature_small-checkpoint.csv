@@ -1,10 +1,3 @@
-Region,Country,State,City,Month,Day,Year,AvgTemperature
-Africa,Algeria,,Algiers,1,1,1995,64.2
-Africa,Algeria,,Algiers,1,2,1995,49.4
-Africa,Algeria,,Algiers,1,3,1995,48.8
-Africa,Algeria,,Algiers,1,4,1995,46.4
-Africa,Algeria,,Algiers,1,5,1995,47.9
-Africa,Algeria,,Algiers,1,6,1995,48.7
-Africa,Algeria,,Algiers,1,7,1995,48.9
-Africa,Algeria,,Algiers,1,8,1995,49.1
-Africa,Algeria,,Algiers,1,9,1995,49.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:957a5a2c35f7bc1da56b0b2ed7bed9c35291c94538d9d0f669137c09a991ac44
+size 408
